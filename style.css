@@ -1,6 +1,6 @@
 #escudo {
-width: 150px;
-height: 120px;
+width: 180px;
+height: 150px;
 }
 
 #navbar{
@@ -11,5 +11,25 @@ justify-content: space-between  ;
 align-items: center;
 padding: 50px;
 
+font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+font-size: xx-large;
+
 }
 
+#noticias {
+    display: flex;
+    text-align: center;
+    justify-content: space-around;
+    padding: 10px;
+}
+
+.noticia {
+background-color:  rgb(105, 152, 255);
+color: rgb(0, 0, 0);
+border: 5px solid rgb(0, 0, 0);
+
+}
+
+.imagem_noticia{
+
+}
